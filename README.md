@@ -45,19 +45,6 @@ Based on the analysis, here are some actionable suggestions for improving sales 
 
 ---
 
-## 📅 Additional Features
-
-### 1. Time-Based Sales Analysis
-*If the dataset includes transaction dates:*
-- Analyze **sales patterns before, during, and after Diwali**.
-- Identify peak shopping days for better promotional timing and inventory management.
-
-### 2. Average Order Value (AOV) & Product Performance
-- Track **AOV by age group and gender** to understand who spends more.
-- Identify **low-performing product categories** that may need repositioning or discounting.
-
----
-
 ## 📊 Tools & Libraries Used
 
 - Python (Jupyter Notebook)
@@ -103,5 +90,4 @@ Check out my profile or reach out:
 
 - [LinkedIn](https://www.linkedin.com/in/data-analyst-sahil)  
 - 📧 Email: sahil.dangi.dev@gmail.com  
-
 
